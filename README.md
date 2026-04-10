@@ -10,6 +10,10 @@ A React-based chat interface for HealthBot — an AI-powered health assistant th
 - **Report Analysis** — upload medical reports (PDF, DOCX, TXT) for AI-powered analysis
 - **Health Tips** — daily health tip feed
 
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/0e23811d-d428-4b09-b6b3-eb58aec62f6b" />
+<img width="732" height="907" alt="image" src="https://github.com/user-attachments/assets/c7879339-19d3-41e6-85b8-9379c36373e5" />
+<img width="742" height="901" alt="image" src="https://github.com/user-attachments/assets/b7c4b274-0778-491f-9b53-9f61114d4fa3" />
+
 ## Tech Stack
 
 - React 19 + Vite
